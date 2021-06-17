@@ -14,7 +14,7 @@ buttons=InlineKeyboardMarkup(
                 InlineKeyboardButton("How Does This Works?", callback_data="abt")
             ],
             [
-                InlineKeyboardButton("Source Code", url="https://github.com/subinps/Forward_2.0"),
+                InlineKeyboardButton("Source Code", url="https://github.com/jbrofficial/forwardbotv2"),
                 InlineKeyboardButton("Report a Bug", url="https://t.me/subinps")
             ]
         ]
